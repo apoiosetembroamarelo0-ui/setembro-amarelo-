@@ -10,13 +10,6 @@ Este é um site simples e acolhedor criado para apoiar a campanha **Setembro Ama
 - Design responsivo e tipografia moderna.
 - Feito para ser leve e rápido de carregar.
 
-## 🚀 Acesse o site
-Quando o **GitHub Pages** estiver ativado, você poderá acessar clicando aqui:
-```
-https://SEU-USUARIO.github.io/setembro-amarelo/
-```
-
-(Substitua `SEU-USUARIO` pelo seu nome de usuário do GitHub)
 
 ## 📞 Precisa de ajuda?
 - **CVV 188** – Centro de Valorização da Vida  
